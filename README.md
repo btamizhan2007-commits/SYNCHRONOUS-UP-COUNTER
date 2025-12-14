@@ -39,13 +39,17 @@ end
 endmodule
 
 ```
+TRUTH TABLE:
+
+ <img width="1088" height="373" alt="TRUTH TABLE" src="https://github.com/user-attachments/assets/6e47d91f-309d-455e-a276-0fdcc2bb72d4" />
+
 RTL LOGIC UP COUNTER:
 
 [EX 11 Dia.pdf](https://github.com/user-attachments/files/24148596/EX.11.Dia.pdf)
 
 WAVEFORM: 
 
-<img width="1088" height="373" alt="WAVE FORM" src="https://github.com/user-attachments/assets/e5afa89d-3da4-44da-85f2-4aaf910e37ae" />
+<img width="1543" height="970" alt="1 (2)" src="https://github.com/user-attachments/assets/dea73bad-002f-4d49-86b6-1b90701ea5ff" />
 
 NAME: TAMIZHAN.B
 
