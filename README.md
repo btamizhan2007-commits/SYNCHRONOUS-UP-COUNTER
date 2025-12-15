@@ -49,7 +49,7 @@ RTL LOGIC UP COUNTER:
 
 WAVEFORM: 
 
-<img width="1543" height="970" alt="1 (2)" src="https://github.com/user-attachments/assets/dea73bad-002f-4d49-86b6-1b90701ea5ff" />
+[synchronous up counters.pdf](https://github.com/user-attachments/files/24171265/synchronous.up.counters.pdf)
 
 NAME: TAMIZHAN.B
 
